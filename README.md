@@ -4,7 +4,7 @@ NorthPeak Digital is a premium, high-performance, single-page website built for 
 
 This project is built using semantic HTML5, modern vanilla CSS, and vanilla JavaScript—crafted with a focus on performance, accessibility, and clean typography without the bloat of frameworks or build tools.
 
-## 🚀 Features
+##  Features
 
 - **Modern & Responsive Layout:** Fully optimized for all device sizes (mobile, tablet, desktop) using CSS Grid, Flexbox, and fluid typography.
 - **Fluid Typography:** Uses CSS custom properties and `clamp()` to scale typography smoothly across viewports.
@@ -20,7 +20,7 @@ This project is built using semantic HTML5, modern vanilla CSS, and vanilla Java
 - **Logic:** Vanilla JavaScript (ES6+)
 - **Typography:** Space Grotesk (display headings), Inter (body copy), IBM Plex Mono (stats & labels)
 
-## 📁 Directory Structure
+##  Directory Structure
 
 ```text
 ASSIGNMENT-WEB/
@@ -38,7 +38,7 @@ ASSIGNMENT-WEB/
 └── README.md               # Project documentation
 ```
 
-## 💻 Local Development
+##  Local Development
 
 To run the project locally, start a static file server in the project directory.
 
@@ -54,10 +54,14 @@ python -m http.server 8080
 ```
 Then visit: `http://localhost:8080` (or `http://127.0.0.1:8080`) in your browser.
 
-## 🌐 Deployment
+##  Deployment
 
 This project can be deployed easily as a static site:
 
 - **GitHub Pages:** Go to your repository **Settings → Pages** and select the source branch (`main`).
 - **Netlify:** Drag and drop the `northpeak-digital` folder or connect your Git repository.
 - **Vercel:** Run `vercel` in the command line within the root directory.
+
+## Live at
+
+   https://assignment-web-teal.vercel.app
